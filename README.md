@@ -8,4 +8,7 @@
   <li>Footer - https://youtu.be/CRSCFvMTPUw</li>
   <li>Buttons - https://youtu.be/2UEYH68__aQ</li>
   <li>List - https://youtu.be/nmQWfDS8z9M</li>
+  <li>Cards - https://youtu.be/_eNXnuIT704</li>
+  <li>Forms - https://youtu.be/9GesIe0_4FA</li>
+  <li>Toggle - https://youtu.be/G_mRfPfFzW8</li>
 <ol>
