@@ -11,4 +11,8 @@
   <li>Cards - https://youtu.be/_eNXnuIT704</li>
   <li>Forms - https://youtu.be/9GesIe0_4FA</li>
   <li>Toggle - https://youtu.be/G_mRfPfFzW8</li>
+  <li>Checkbox - https://youtu.be/m3vMjDtedSo</li>
+  <li>Radio Button List - https://youtu.be/j2yBAeUztGg</li>
+  <li>Range/Slider - https://youtu.be/MyUENwaaW9w</li>
+  <li>Select/Dropdown - https://youtu.be/4_B0bqq4ELs</li>
 <ol>
