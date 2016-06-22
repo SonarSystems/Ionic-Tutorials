@@ -15,4 +15,5 @@
   <li>Radio Button List - https://youtu.be/j2yBAeUztGg</li>
   <li>Range/Slider - https://youtu.be/MyUENwaaW9w</li>
   <li>Select/Dropdown - https://youtu.be/4_B0bqq4ELs</li>
+  <li>Tabs - https://youtu.be/1tdMoJzjuLs</li>
 <ol>
